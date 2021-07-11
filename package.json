@@ -1,0 +1,26 @@
+{
+  "name": "cameo_app",
+  "version": "1.0.0",
+  "description": "New post + mesage + notification + Flutter + Firebase",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhbinh2412/CameoApp.git"
+  },
+  "author": "DevNguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhbinh2412/CameoApp/issues"
+  },
+  "homepage": "https://github.com/thanhbinh2412/CameoApp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mssql": "^7.1.3"
+  }
+}
